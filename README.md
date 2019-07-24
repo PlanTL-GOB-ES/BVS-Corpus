@@ -3,10 +3,9 @@
 This repository contains the Biblioteca Virtual en Salud parallel corpus.
 
 The corpus was collected from bvsalud.org website in 2018 and processed with hunalign. The languages are:
-
-*English
-*Portuguese
-*Spanish
+- English
+- Portuguese
+- Spanish
 
 The publication with details is in this directory.
 
